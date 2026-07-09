@@ -1,4 +1,4 @@
-# Playbook Summary: The Buy-In Build Outbound Framework
+# Alex berman: The Buy-In Build Outbound Framework
 
 ## 📄 Executive Summary
 Most agency owners lose deals before quoting their price because a lack of conviction creates a noticeable hesitation that causes prospects to disengage. The "Buy-In Build" framework solves this through a three-step methodology focused on generating undeniable proof, conducting regular client feedback loops, and running self-assessment price tests. This process shifts a sales professional's energy from defensive, feature-heavy rambling to quiet, high-conviction certainty that naturally draws prospects in.
