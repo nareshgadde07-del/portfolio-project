@@ -1,4 +1,4 @@
-# Objection Handling — The "Mr. Miyagi" Method for Cold Calls
+# nick cegelski — The "Mr. Miyagi" Method for Cold Calls
 
 ## Executive Summary
 
