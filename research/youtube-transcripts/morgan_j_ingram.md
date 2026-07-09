@@ -1,4 +1,4 @@
-# Playbook Summary: Sourcing $2M in Pipeline as an SDR
+# morgan j ingram: Sourcing $2M in Pipeline as an SDR
 
 ## Executive Summary
 
