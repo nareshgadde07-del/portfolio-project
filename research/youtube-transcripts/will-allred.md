@@ -1,4 +1,4 @@
-# Personalizing Cold Emails That Actually Get Replies
+# Will allred Personalizing Cold Emails That Actually Get Replies
 
 ## Executive Summary
 
