@@ -1,72 +1,58 @@
 # My Original Ideas
 
-The following ideas were developed after reviewing multiple experts and identifying gaps in their recommendations. These are my own suggestions and were not directly taken from any single source.
+After reviewing multiple experts, I identified several opportunities that were not explicitly discussed. These ideas are my own.
 
 ---
 
-# Original Idea 1: Prospect Priority Score
+# Idea 1: Prospect Opportunity Score
 
-Before writing a cold email, assign every prospect a score based on publicly available information.
+Before writing any cold email, score each prospect.
 
-Example:
-
-| Criteria | Score |
-|----------|------:|
-| Recently raised funding | +3 |
-| Hiring for relevant roles | +2 |
+| Criteria | Points |
+|----------|-------:|
+| Hiring | +2 |
+| Funding | +3 |
+| Product Launch | +2 |
 | Active on LinkedIn | +2 |
-| Recent product launch | +2 |
-| Company growth/news | +1 |
+| Recent News | +1 |
 
-Maximum Score: **10**
+Prospects scoring 8–10 receive highly personalized outreach.
 
-### Why It Could Work
+## Why It Could Work
 
-Instead of treating every prospect equally, this scoring system helps prioritize companies that are more likely to respond because they are actively growing or changing.
-
-This allows sales teams to spend more time on high-potential prospects.
+This helps prioritize companies that are already experiencing change and may be more likely to respond.
 
 ---
 
-# Original Idea 2: Personalization Checklist
+# Idea 2: Weekly Outreach Review
 
-Before sending an email, quickly verify the following:
+Every Friday review:
 
-- Mentioned the prospect's name
-- Referenced a recent event or achievement
-- Explained why the email is relevant
-- Included only one clear call-to-action
-- Kept the email under 120 words
+- Open Rate
+- Reply Rate
+- Positive Replies
+- Meetings Booked
 
-### Why It Could Work
-
-Many cold emails fail because small details are missed. A simple checklist improves consistency and reduces avoidable mistakes.
+Instead of simply increasing email volume, improve based on actual performance data.
 
 ---
 
-# Original Idea 3: Weekly Email Review
+# Idea 3: Personalization Checklist
 
-Every Friday, review the week's outreach data.
+Before sending any email verify:
 
-Track:
+- Mentioned the prospect by name
+- Mentioned company
+- Mentioned a recent event
+- One CTA
+- Under 120 words
 
-- Open rate
-- Reply rate
-- Positive replies
-- Meetings booked
-
-Ask:
-
-- Which subject lines performed best?
-- Which CTAs generated the most replies?
-- Which industries responded more frequently?
-
-### Why It Could Work
-
-Continuous improvement based on real data is more effective than relying only on general best practices.
+This reduces mistakes and improves consistency.
 
 ---
 
 # Reflection
 
-While researching, I noticed that most experts focus on writing better emails. I believe equal attention should be given to deciding **who** to contact, **when** to contact them, and **how** to continuously improve through measurement. These ideas aim to make the outreach process more systematic and data-driven.
+Most experts focus on writing better emails.
+
+I believe equal attention should be given to choosing the right prospects and continuously improving through measurement.
