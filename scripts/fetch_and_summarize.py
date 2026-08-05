@@ -5,7 +5,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 # ==========================================
 # CONFIGURATION
 # ==========================================
-YOUTUBE_API_KEY = "AIzaSyCoGk7Y0wWsBeO8N0VAUNBXn7Hu5XzBuhI"
+
 
 # Initialize YouTube API Client
 youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
