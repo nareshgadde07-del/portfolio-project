@@ -86,4 +86,3 @@ Curated list of practitioner experts informing this project's cold outreach stra
 
 ---
 
-*Compiled for the Cold Outreach Pipeline for B2B SaaS project. Roles, handles, and links were current as of July 9, 2026 — several people on this list changed jobs or rebranded within the last 12 months, so re-verify before final publication.*
