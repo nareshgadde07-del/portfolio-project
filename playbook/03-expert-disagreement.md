@@ -4,7 +4,7 @@
 
 | Expert | Recommendation | Source |
 |--------|----------------|--------|
-| **Jason Bay** | Cold calling should remain the primary outbound channel because inboxes are crowded while calls create more direct conversations. | Jason Bay, *"Why Cold Calling Still Matters"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
+| **Jason Bay** | Cold calling should remain the primary outbound channel because inboxes are crowded while calls create more direct conversations. | Jason Bay, *"Why Cold Calling Still Matters"*, LinkedIn :  https://www.linkedin.com/in/jasondbay/, **DD.MM.YYYY**, <> |
 | **William Allred** | Start with pain-first cold emails that help buyers recognize their problem before introducing the product. | William Allred, *"Most Prospecting Misses the Buyer's Reality"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
 
 ### My Decision
