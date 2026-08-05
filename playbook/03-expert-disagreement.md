@@ -1,122 +1,79 @@
 # Where Experts Disagree
 
-One of the most valuable parts of this research was discovering that experts often recommend different approaches. Instead of following one person blindly, I compared multiple viewpoints and made my own decisions.
+## 1. Cold Calling vs. Cold Email First
+
+| Expert | Recommendation | Source |
+|--------|----------------|--------|
+| **Jason Bay** | Cold calling should remain the primary outbound channel because inboxes are crowded while calls create more direct conversations. | Jason Bay, *"Why Cold Calling Still Matters"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
+| **William Allred** | Start with pain-first cold emails that help buyers recognize their problem before introducing the product. | William Allred, *"Most Prospecting Misses the Buyer's Reality"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
+
+### My Decision
+
+I would combine both approaches into a multi-channel sequence.
+
+| Day | Activity |
+|-----|----------|
+| Day 1 | Personalized cold email |
+| Day 2 | View LinkedIn profile and send a connection request |
+| Day 3 | Cold call |
+| Day 5 | Personalized follow-up email |
+
+**Reason**
+
+Modern buyers rarely respond through a single channel. Combining email, LinkedIn, and phone outreach increases visibility while keeping communication personalized.
 
 ---
 
-# Disagreement 1: Email Length
+## 2. AI Automation vs. Human Relationships
 
-## Expert A
+| Expert | Recommendation | Source |
+|--------|----------------|--------|
+| **Kyle Coleman** | Encourage teams to use AI across GTM workflows, automate repetitive tasks, and build a habit of experimenting with AI. | Kyle Coleman, *"Building an AI Habit"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
+| **Morgan J. Ingram** | Use AI only to reduce administrative work while keeping relationship building and conversations human. | Morgan J. Ingram, *"AI Won't Replace Human Selling Skills"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
 
-**Recommendation:**
+### My Decision
 
-Keep cold emails under 75 words.
+I agree more with Morgan J. Ingram.
 
-**Reason:**
+AI should automate:
 
-Busy professionals prefer emails they can read in a few seconds.
+- Prospect research
+- CRM updates
+- Email drafting
+- Meeting summaries
+- Follow-up reminders
 
-**Source:**
+Human sellers should focus on:
 
-(Add Source)
+- Discovery calls
+- Handling objections
+- Building trust
+- Closing opportunities
 
----
+**Reason**
 
-## Expert B
-
-**Recommendation:**
-
-Emails between 100–150 words provide enough context to build credibility.
-
-**Reason:**
-
-Additional context helps explain the value proposition.
-
-**Source:**
-
-(Add Source)
+Automation improves efficiency, but trust and relationships are still the primary drivers of successful sales.
 
 ---
 
-## My Decision
+## 3. Personal Branding vs. Business Building
 
-I recommend keeping emails between **80–120 words**.
+| Expert | Recommendation | Source |
+|--------|----------------|--------|
+| **Nick Cegelski** | Prioritize building the business instead of optimizing for LinkedIn engagement. | Nick Cegelski, *"Why I Stopped Posting Every Day"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
+| **Jason Bay** | Publish consistently and build authority through educational content that attracts buyers. | Jason Bay, *"Building the Future of Outbound Squad"*, LinkedIn, **DD.MM.YYYY**, <LINK> |
 
-This provides enough information to communicate value while remaining concise and easy to read.
+### My Decision
 
----
+Both strategies are valuable.
 
-# Disagreement 2: Level of Personalization
+For an early-stage startup:
 
-## Expert A
+- **80%** → Customer acquisition
+- **20%** → Personal branding and thought leadership
 
-Spend several minutes researching every prospect and personalize every email.
+**Reason**
 
-**Source:**
-
-(Add Source)
-
----
-
-## Expert B
-
-Use lightweight personalization so that more prospects can be contacted efficiently.
-
-**Source:**
-
-(Add Source)
+Revenue should remain the priority, while consistent content compounds long-term credibility and inbound opportunities.
 
 ---
-
-## My Decision
-
-I believe personalization should depend on the type of prospect.
-
-For high-value prospects, deep personalization is worthwhile.
-
-For large outreach campaigns, lightweight personalization is more practical.
-
----
-
-# Disagreement 3: Call-to-Action (CTA)
-
-## Expert A
-
-Always ask for a meeting directly.
-
-**Source:**
-
-(Add Source)
-
----
-
-## Expert B
-
-Instead of asking for a meeting, ask a simple question to start a conversation.
-
-**Source:**
-
-(Add Source)
-
----
-
-## My Decision
-
-I prefer asking a simple question first.
-
-It reduces pressure on the recipient and often increases reply rates compared to requesting a meeting immediately.
-
----
-
-# Conclusion
-
-Throughout my research, I found that there is rarely one "correct" strategy.
-
-The best approach depends on:
-
-- Target audience
-- Industry
-- Outreach volume
-- Business goals
-
-Rather than following every recommendation, I selected approaches that are practical, scalable, and supported by multiple sources.
