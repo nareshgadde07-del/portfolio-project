@@ -1,81 +1,69 @@
 # What I Rejected and Why
 
-During my research, I found several recommendations that were popular among some experts but did not align with the goals of this playbook. Below are the ideas I decided not to include and my reasoning.
+While researching different experts, I found several recommendations that can be effective in specific situations but are not suitable as general best practices. Below are the ideas I decided not to include in my playbook.
 
 ---
 
-# Rejected Idea 1: Use Clickbait Subject Lines
+# 1. High-Volume, Low-Personalization Outreach
 
 ## Recommendation
 
-Some experts suggest using highly curiosity-driven or clickbait subject lines to increase open rates.
+Jeremy Chatelaine demonstrates how automation tools can significantly increase the number of emails sent through scalable cold email campaigns.
 
-Examples:
+**Source**
 
-- You won't believe this...
-- This changes everything...
-- Don't miss this...
+Jeremy Chatelaine
+
+QuickMail
+
+https://quickmail.com
 
 ## Why I Rejected It
 
-Although these subject lines may increase open rates, they can also reduce trust if the email content does not match the expectation.
+While automation improves efficiency, relying primarily on high-volume outreach can reduce personalization and lower response quality.
 
-For professional B2B outreach, building credibility is more important than maximizing opens.
-
-Therefore, I recommend writing clear, honest, and relevant subject lines instead.
-
-**Source:**
-
-(Add Source)
+For B2B SaaS, where deals are often high value, I believe quality should be prioritized over quantity.
 
 ---
 
-# Rejected Idea 2: Fully Automate Cold Outreach
+# 2. Requesting a Meeting in the First Email
 
 ## Recommendation
 
-Some experts recommend sending thousands of automated emails with minimal personalization.
+Some outbound experts recommend asking directly for a meeting in the first cold email.
 
 ## Why I Rejected It
 
-While automation saves time, excessive automation often produces generic emails that recipients can easily recognize.
+After comparing multiple experts, I found that beginning with a simple conversation is often less intimidating than immediately requesting a meeting.
 
-This may reduce reply rates and damage the sender's reputation.
-
-I believe automation should assist the outreach process rather than replace thoughtful communication.
-
-**Source:**
-
-(Add Source)
+Building curiosity first may improve reply rates.
 
 ---
 
-# Rejected Idea 3: Include Multiple CTAs in One Email
+# 3. Using Generic Templates
 
 ## Recommendation
 
-A few outreach templates ask recipients several questions in the same email.
-
-Example:
-
-- Would you like a demo?
-- Can we schedule a call?
-- Should I send more information?
+Many sales teams reuse the same email templates for every prospect.
 
 ## Why I Rejected It
 
-Asking multiple questions increases the cognitive effort required to respond.
+Morgan J. Ingram strongly emphasizes human-centered outreach and building genuine relationships.
 
-A single, clear call-to-action makes it easier for the recipient to reply.
+I believe personalized emails create more trust than generic templates.
 
-**Source:**
+**Source**
 
-(Add Source)
+Morgan J. Ingram
+
+AMP Social
+
+https://theampsocial.com
 
 ---
 
-# Summary
+# Conclusion
 
-Not every popular recommendation is suitable for every situation.
+Not every recommendation works in every situation.
 
-While researching, I focused on selecting ideas that are practical, ethical, and likely to build long-term trust rather than chasing short-term metrics.
+My playbook focuses on strategies that prioritize relevance, personalization, and long-term relationship building rather than maximizing outreach volume.
