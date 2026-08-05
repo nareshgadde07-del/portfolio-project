@@ -60,7 +60,6 @@ AMP Social
 
 https://theampsocial.com
 
----
 
 # Conclusion
 
