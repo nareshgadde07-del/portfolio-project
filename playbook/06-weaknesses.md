@@ -1,37 +1,49 @@
-# Weaknesses of This Playbook
 
-Although this playbook combines advice from experienced practitioners, it has several limitations.
+## 1. SaaS-Focused Research
 
-## 1. Focused on B2B SaaS
+Most recommendations come from SaaS sales leaders.
 
-The recommendations are designed primarily for SaaS companies and may not apply to industries such as healthcare, manufacturing, or government.
-
----
-
-## 2. Based on Practitioner Experience
-
-Most insights come from experienced sales professionals rather than controlled academic research.
+Organizations in manufacturing, healthcare, education, or government may require different outreach strategies.
 
 ---
 
-## 3. Markets Change
+## 2. Digital Communication Bias
 
-Email deliverability, AI tools, and buyer behavior continue to evolve.
+This playbook assumes buyers regularly use:
 
-Some recommendations may become outdated over time.
+- Email
+- LinkedIn
+- CRM software
 
----
-
-## 4. Requires Continuous Testing
-
-No playbook guarantees results.
-
-Every organization should test subject lines, messaging, timing, and follow-up strategies using real performance data.
+Industries relying on referrals or field sales may require different communication methods.
 
 ---
 
-## 5. Different Buyers Behave Differently
+## 3. Different Buying Cycles
 
-Executives, founders, and managers may respond differently to the same outreach strategy.
+The suggested follow-up cadence may not work for enterprise sales, where purchasing decisions often require several months.
 
-Personalization remains essential.
+---
+
+## 4. AI Accessibility
+
+Several recommendations assume access to premium software such as:
+
+- Apollo
+- Clay
+- HubSpot
+- Salesforce
+- ChatGPT
+
+Small businesses may need lower-cost alternatives.
+
+---
+
+## 5. Geographic Differences
+
+Communication styles, regulations, and buyer expectations differ across countries.
+
+Outbound strategies should be adapted for local markets whenever possible.
+
+---
+
