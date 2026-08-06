@@ -1,13 +1,38 @@
 # Who I Would NOT Recommend Following and Why
 
-After reviewing all ten experts, I would not discourage people from learning from any single expert entirely. Each brings valuable experience and practical insights.
+Every expert included in my research provides valuable insights.
 
-However, I would be cautious about following advice that focuses primarily on high-volume automation without considering personalization and relationship building.
+However, if I had to recommend one approach that beginners should use cautiously, it would be the following.
 
-For example, some strategies demonstrated by Jeremy Chatelaine through QuickMail emphasize scaling outreach using automation tools. While these methods can be effective for high-volume campaigns, they may not be the best fit for organizations selling complex B2B SaaS products where trust and relevance are critical.
+---
 
-For this reason, I chose not to make automation the foundation of my playbook.
+# Jeremy Chatelaine
 
-Instead, I combined ideas from Jason Bay, Morgan J. Ingram, Alex Berman, and Will Allred, who consistently emphasize understanding the prospect, writing relevant messages, and building meaningful conversations.
+## Why
 
-This decision reflects the goals of this playbook rather than suggesting that one expert is objectively better than another.
+Jeremy focuses heavily on outreach automation and sending messages at scale.
+
+While this approach works for experienced teams with proven messaging, beginners often automate poor outreach before learning effective communication.
+
+This can lead to:
+
+- Lower reply rates
+- Generic messaging
+- Poor personalization
+- Higher spam risk
+
+---
+
+## My Recommendation
+
+New SDRs and junior growth marketers should first master:
+
+- Prospect research
+- Personalized messaging
+- Writing concise emails
+- Building curiosity
+- Following up professionally
+
+Automation should only be introduced after consistently generating replies with manual outreach.
+
+This does not mean Jeremy's advice is incorrect. Rather, I believe his strategies are more suitable for experienced outbound teams than for beginners.
