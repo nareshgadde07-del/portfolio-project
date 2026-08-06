@@ -4,8 +4,8 @@
 
 | Expert | Recommendation | Source |
 |--------|----------------|--------|
-| **Jason Bay** | Cold calling should remain the primary outbound channel because inboxes are crowded while calls create more direct conversations. | Jason Bay, *"Why Cold Calling Still Matters"*, LinkedIn :  https://www.linkedin.com/in/jasondbay/, **04.07.2026**, <https://www.linkedin.com/posts/jasondbay_i-send-10000-cold-emails-a-day-but-i-activity-7474838615852883968-xPGk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
-| **William Allred** | Start with pain-first cold emails that help buyers recognize their problem before introducing the product. | William Allred, *"Most Prospecting Misses the Buyer's Reality"*, LinkedIn : https://www.linkedin.com/in/williamallred, **15.07.2026**, <https://www.linkedin.com/posts/williamallred_ive-recorded-2-cold-email-courses-todays-activity-7475155198823313408-Pi_B?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **Jason Bay** | Cold calling should remain the primary outbound channel because inboxes are crowded while calls create more direct conversations. | Jason Bay, *"Why Cold Calling Still Matters"*, LinkedIn :  https://www.linkedin.com/in/jasondbay/,  **04.07.2026**,  **Linkedin Post** <https://www.linkedin.com/posts/jasondbay_i-send-10000-cold-emails-a-day-but-i-activity-7474838615852883968-xPGk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **William Allred** | Start with pain-first cold emails that help buyers recognize their problem before introducing the product. | William Allred, *"Most Prospecting Misses the Buyer's Reality"*, LinkedIn : https://www.linkedin.com/in/williamallred,  **15.07.2026**,  **Linkedin Post** <https://www.linkedin.com/posts/williamallred_ive-recorded-2-cold-email-courses-todays-activity-7475155198823313408-Pi_B?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
 
 ### My Decision
 
@@ -28,8 +28,8 @@ Modern buyers rarely respond through a single channel. Combining email, LinkedIn
 
 | Expert | Recommendation | Source |
 |--------|----------------|--------|
-| **Kyle Coleman** | Encourage teams to use AI across GTM workflows, automate repetitive tasks, and build a habit of experimenting with AI. | Kyle Coleman, *"Building an AI Habit"*, LinkedIn : https://www.linkedin.com/in/kyletcoleman/, .05.2026, <https://www.linkedin.com/posts/kyletcoleman_i-felt-like-my-team-was-doing-a-nice-job-activity-7452767305308008449-Bbze?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
-| **Morgan J. Ingram** | Use AI only to reduce administrative work while keeping relationship building and conversations human. | Morgan J. Ingram, *"AI Won't Replace Human Selling Skills"*, LinkedIn : https://www.linkedin.com/in/morganjingramamp, 07.2026, <https://www.linkedin.com/posts/morganjingramamp_my-take-is-that-the-way-were-chasing-ai-activity-7470448451105759232-L1x9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **Kyle Coleman** | Encourage teams to use AI across GTM workflows, automate repetitive tasks, and build a habit of experimenting with AI. | Kyle Coleman, *"Building an AI Habit"*, LinkedIn : https://www.linkedin.com/in/kyletcoleman/,  05.2026, **Linkedin Post** <https://www.linkedin.com/posts/kyletcoleman_i-felt-like-my-team-was-doing-a-nice-job-activity-7452767305308008449-Bbze?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **Morgan J. Ingram** | Use AI only to reduce administrative work while keeping relationship building and conversations human. | Morgan J. Ingram, *"AI Won't Replace Human Selling Skills"*, LinkedIn : https://www.linkedin.com/in/morganjingramamp, 07.2026, **Linkedin Post** <https://www.linkedin.com/posts/morganjingramamp_my-take-is-that-the-way-were-chasing-ai-activity-7470448451105759232-L1x9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
 
 ### My Decision
 
@@ -60,8 +60,8 @@ Automation improves efficiency, but trust and relationships are still the primar
 
 | Expert | Recommendation | Source |
 |--------|----------------|--------|
-| **Nick Cegelski** | Prioritize building the business instead of optimizing for LinkedIn engagement. | Nick Cegelski, *"Why I Stopped Posting Every Day"*, LinkedIn : https://www.linkedin.com/in/nick-cegelski/, 03.2026, <https://www.linkedin.com/posts/nick-cegelski_i-used-to-post-on-linkedin-daily-but-as-activity-7445527487574450176-lyuk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
-| **Jason Bay** | Publish consistently and build authority through educational content that attracts buyers. | Jason Bay, *"Building the Future of Outbound Squad"*, LinkedIn : https://www.linkedin.com/in/jasondbay/ , 06.2026, <https://www.linkedin.com/posts/jasondbay_2005-2010-only-way-to-learn-about-sales-activity-7463604628773908480-OCCA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **Nick Cegelski** | Prioritize building the business instead of optimizing for LinkedIn engagement. | Nick Cegelski, *"Why I Stopped Posting Every Day"*, LinkedIn : https://www.linkedin.com/in/nick-cegelski/, 03.2026, **Linkedin Post** <https://www.linkedin.com/posts/nick-cegelski_i-used-to-post-on-linkedin-daily-but-as-activity-7445527487574450176-lyuk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
+| **Jason Bay** | Publish consistently and build authority through educational content that attracts buyers. | Jason Bay, *"Building the Future of Outbound Squad"*, LinkedIn : https://www.linkedin.com/in/jasondbay/ , 06.2026, **Linkedin Post** <https://www.linkedin.com/posts/jasondbay_2005-2010-only-way-to-learn-about-sales-activity-7463604628773908480-OCCA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk> |
 
 ### My Decision
 
