@@ -60,7 +60,58 @@ AMP Social
 
 https://theampsocial.com
 
+# What I Rejected and Why
 
+Not every recommendation collected during research belongs in this playbook. Below are ideas I intentionally excluded.
+
+---
+
+# 4. Sending Mass Generic Emails
+
+## Recommendation
+
+Some experts suggest maximizing outreach volume using generic templates.
+
+## Why I Rejected It
+
+- Low reply rates.
+- Easily detected as spam.
+- Damages company reputation.
+- Doesn't build trust.
+- Difficult to create meaningful conversations.
+
+For junior marketers, learning personalization is more valuable than maximizing quantity.
+
+---
+
+# 5. Following Up Every Day
+
+## Recommendation
+
+Some creators recommend daily follow-ups until receiving a response.
+
+## Why I Rejected It
+
+- Can annoy prospects.
+- May reduce brand perception.
+- Higher chance of spam complaints.
+- Less effective than spaced follow-ups.
+
+Instead, I recommend three follow-ups spaced several days apart.
+
+---
+
+# 6. Selling in the First Email
+
+## Recommendation
+
+Some outreach templates immediately pitch product features.
+
+## Why I Rejected It
+
+Cold outreach should begin by creating curiosity, not by delivering a sales presentation.
+
+The first objective is earning a reply—not closing a deal.
 # Conclusion
 
 Not every recommendation works in every situation.
