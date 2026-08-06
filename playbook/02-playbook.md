@@ -25,7 +25,7 @@ A personalized email demonstrates genuine interest and significantly improves th
 
 **Source:**
 
-(Add your research source here)
+(https://www.linkedin.com/posts/jasondbay_you-have-to-personalizeadd-relevance-to-activity-7350902076404629504-aQAE?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
 
@@ -52,7 +52,8 @@ Simple subject lines are easier to read and generally achieve better open rates.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/armand-farrokh_sales-activity-7333518670985342978-ymqt?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
+
 
 ---
 
@@ -75,7 +76,8 @@ People respond better when they know the email was written specifically for them
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/armand-farrokh_sales-activity-7333518670985342978-ymqt?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
+
 
 ---
 
@@ -91,7 +93,7 @@ Avoid lengthy company introductions.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/armand-farrokh_heres-how-i-structure-every-cold-email-drip-activity-7148715155047038977-Pke2?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
 
@@ -109,7 +111,7 @@ Busy professionals often scan emails quickly.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/jasondbay_sales-prospecting-outbound-activity-7117842311606067202-LCPH?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
 
@@ -126,7 +128,7 @@ Avoid asking multiple questions.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/jasondbay_sales-prospecting-outbound-activity-7118566905648439296-DeRy?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
 
@@ -144,7 +146,8 @@ Remain polite and professional.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/belbatrawy_sales-mindset-deathtofluff-activity-7051628509001121792-vGQf?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link
+)
 
 ---
 
@@ -161,4 +164,4 @@ Review your performance regularly and improve based on data.
 
 **Source:**
 
-(Add source)
+(https://www.linkedin.com/posts/jasondbay_sales-prospecting-outbound-activity-7045007122907979776-ZWwN?utm_medium=ios_app&rcm=ACoAAFxDgMYBf3-yu9ET8EvdSK5s5pm7f0RUQhk&utm_source=social_share_send&utm_campaign=copy_link)
